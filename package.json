@@ -1,0 +1,11 @@
+{
+  "name": "vedant-patil-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "build": "node scripts/build.mjs",
+    "test": "node --test tests/*.test.cjs"
+  }
+}
